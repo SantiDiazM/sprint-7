@@ -16,6 +16,10 @@ La aplicación fue desarrollada con Python y Streamlit. Permite visualizar:
 - Plotly express
 - Streamlit
 
+## Link
+
+- https://sprint-7-e88q.onrender.com/
+
 ## Ejecutar la aplicación localmente
 
 Instala las dependencias:
